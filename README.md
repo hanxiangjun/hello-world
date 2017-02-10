@@ -1,2 +1,8 @@
 # hello-world
-just anther repository
+
+Hi Humans!
+
+xjhan here,I like node.js.
+keep learning
+Improving constantly
+keep trying
